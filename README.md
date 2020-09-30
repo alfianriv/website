@@ -1,4 +1,4 @@
-# alfian-web
+# alfian - An amazing website
 
 ## Build Setup
 
